@@ -1,2 +1,25 @@
 # pf2e-season-of-ghosts-map-remake
 Remakes for maps of the Season of Ghosts adventure path for Pathfinder 2nd Edition.
+
+### Module Contents
+<details>
+  <summary>Click here for MAJOR SPOILERS for most of the SEASON OF GHOSTS adventure path for Pathfinder 2nd Edition.</summary>
+  
+This module currently only contains various forms of hexploration maps for the Willowshore Hinterlands:
+- Normal Hinterlands map
+- Including the Wall of Ghosts on the Hinterlands.
+- Showing the boundaries of the Mindscape around the Hinterlands.
+- Both the Wall of Ghosts and Mindscape borders.
+
+I recommend using this in conjuction with the [World Explorer](https://github.com/CarlosFdez/world-explorer) module to slowly reveal the borders of the mindscape as the players explore the boundary.
+</details>
+
+###
+I've tried to capture as many details as I can without spoiling anything for the players. The various buildings and landmarks placed on the map should be known to the players at the start of the adventure.
+
+This is still a work in progress however, as I currently only have the first book of the adventure, and I will likely update these as needed. (I looked into making fall and winter variants of the map but that may not be viable with the tools available.)
+
+#### Credits:
+Paizo - For making Pathfinder 2nd Edition and the Season of Ghosts adventure path.
+
+Inkarnate - regional map making software

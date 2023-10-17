@@ -1,0 +1,30 @@
+{
+  "id": "pf2e-season-of-ghosts-map-remake",
+  "title": "PF2e Season of Ghosts Map Remake",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Remakes for maps of the Season of Ghosts adventure path for Pathfinder 2nd Edition.",
+  "authors": [
+    {
+      "name": "MechaMaya",
+      "discord": "mechamaya"
+    }
+  ],
+  "url": "https://github.com/mechamaya/pf2e-season-of-ghosts-map-remake",
+  "packs": [
+    {
+      "name": "season-of-ghosts-map-remake",
+      "label": "Season of Ghosts Map Remake",
+      "path": "packs/season-of-ghosts-map-remake",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ]
+}
