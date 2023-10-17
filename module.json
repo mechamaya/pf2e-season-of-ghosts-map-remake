@@ -26,5 +26,7 @@
       },
       "system": "pf2e"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/mechamaya/pf2e-season-of-ghosts-map-remake/main/module.json",
+  "download": "https://github.com/mechamaya/pf2e-season-of-ghosts-map-remake/archive/refs/heads/main.zip"
 }
