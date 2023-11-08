@@ -10,6 +10,7 @@ This module currently only contains various forms of hexploration maps for the W
 - Including the Wall of Ghosts on the Hinterlands.
 - Showing the boundaries of the Mindscape around the Hinterlands.
 - Both the Wall of Ghosts and Mindscape borders.
+- Book 2 variant of the Mindscape border, creating a tunnel along the Enlightened Path
 
 I recommend using this in conjuction with the [World Explorer](https://github.com/CarlosFdez/world-explorer) module to slowly reveal the borders of the mindscape as the players explore the boundary.
 </details>
