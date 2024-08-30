@@ -1,6 +1,8 @@
 # pf2e-season-of-ghosts-map-remake
 Remakes for maps of the Season of Ghosts adventure path for Pathfinder 2nd Edition.
 
+Willowshore Hinterlands and town map remakes. Isometric town map provided courtesy of @plasticmohawk on Discord, thank you!
+
 ### Module Contents
 <details>
   <summary>Click here for MAJOR SPOILERS for most of the SEASON OF GHOSTS adventure path for Pathfinder 2nd Edition.</summary>
@@ -17,8 +19,6 @@ I recommend using this in conjuction with the [World Explorer](https://github.co
 
 ###
 I've tried to capture as many details as I can without spoiling anything for the players. The various buildings and landmarks placed on the map should be known to the players at the start of the adventure.
-
-This is still a work in progress however, as I currently only have the first book of the adventure, and I will likely update these as needed. (I looked into making fall and winter variants of the map but that may not be viable with the tools available.)
 
 #### Credits:
 Paizo - For making Pathfinder 2nd Edition and the Season of Ghosts adventure path.
