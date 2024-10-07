@@ -1,18 +1,8 @@
-2024/08/29-20:24:37.394 7ed0 Recovering log #7
-2024/08/29-20:24:37.394 7ed0 Level-0 table #9: started
-2024/08/29-20:24:37.396 7ed0 Level-0 table #9: 10431 bytes OK
-2024/08/29-20:24:37.398 7ed0 Delete type=0 #3
-2024/08/29-20:24:37.398 7ed0 Delete type=0 #4
-2024/08/29-20:24:37.398 7ed0 Delete type=0 #7
-2024/08/29-20:24:37.398 7ed0 Delete type=3 #2
-2024/08/29-20:24:37.398 7ed0 Delete type=3 #6
-2024/08/29-20:25:05.371 a74 Level-0 table #12: started
-2024/08/29-20:25:05.371 a74 Level-0 table #12: 0 bytes OK
-2024/08/29-20:25:05.372 a74 Delete type=0 #10
-2024/08/29-20:25:05.387 a74 Manual compaction at level-0 from '!scenes!maxv8RRKJgFxAHKn' @ 72057594037927935 : 1 .. '!scenes.notes!sUvF9PALgXdP3BJG.zaxFl8gj0aaDzvwG' @ 0 : 0; will stop at '!scenes.notes!sUvF9PALgXdP3BJG.zaxFl8gj0aaDzvwG' @ 28 : 1
-2024/08/29-20:25:05.387 a74 Compacting 1@0 + 0@1 files
-2024/08/29-20:25:05.388 a74 Generated table #13@0: 38 keys, 8420 bytes
-2024/08/29-20:25:05.388 a74 Compacted 1@0 + 0@1 files => 8420 bytes
-2024/08/29-20:25:05.389 a74 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/08/29-20:25:05.389 a74 Delete type=2 #9
-2024/08/29-20:25:05.399 a74 Manual compaction at level-0 from '!scenes.notes!sUvF9PALgXdP3BJG.zaxFl8gj0aaDzvwG' @ 28 : 1 .. '!scenes.notes!sUvF9PALgXdP3BJG.zaxFl8gj0aaDzvwG' @ 0 : 0; will stop at (end)
+2024/10/07-15:00:45.067 5388 Recovering log #32
+2024/10/07-15:00:45.069 5388 Delete type=0 #32
+2024/10/07-15:00:45.069 5388 Delete type=3 #30
+2024/10/07-15:01:08.514 7b50 Level-0 table #38: started
+2024/10/07-15:01:08.514 7b50 Level-0 table #38: 0 bytes OK
+2024/10/07-15:01:08.515 7b50 Delete type=0 #36
+2024/10/07-15:01:08.515 7b50 Manual compaction at level-0 from '!scenes!9AG59vNoc1wXDMlQ' @ 72057594037927935 : 1 .. '!scenes.notes!9AG59vNoc1wXDMlQ.zaxFl8gj0aaDzvwG' @ 0 : 0; will stop at (end)
+2024/10/07-15:01:08.517 7b50 Manual compaction at level-1 from '!scenes!9AG59vNoc1wXDMlQ' @ 72057594037927935 : 1 .. '!scenes.notes!9AG59vNoc1wXDMlQ.zaxFl8gj0aaDzvwG' @ 0 : 0; will stop at (end)
