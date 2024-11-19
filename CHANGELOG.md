@@ -1,3 +1,6 @@
+# 0.9.2
+Add map files for Book 3 Hinterlands that has snow on the ground and trees, and general wintery color desaturation.
+
 # 0.9.1
 Small fix to fix thumbnails
 
