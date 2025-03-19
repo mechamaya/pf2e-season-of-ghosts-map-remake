@@ -15,6 +15,7 @@ This module currently only contains various forms of hexploration maps for the W
 - Book 2 variant of the Mindscape border, creating a tunnel along the Enlightened Path
 - Book 3 winter variant of the Hinterlands if you want to show the region in a blizzard.
 - Book 4/Late Book 3 variant of the Hinterlands extended east to include Karahai, Silkwasp Bandit Camp, and the Sea of Ghosts
+- Book 4 map that's even more extended to the north and south as well. Includes the various locations for side quests in book 4 and some other homebrew locations of mine. WIP as of v0.9.4
 
 I recommend using this in conjuction with the [World Explorer](https://github.com/CarlosFdez/world-explorer) module to slowly reveal the borders of the mindscape as the players explore the boundary.
 </details>
