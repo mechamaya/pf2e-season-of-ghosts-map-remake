@@ -1,3 +1,6 @@
+# 0.9.6
+Updated Specterwood scene markers, and the map image has been updated with a new road to the south and some other minor adjustments.
+
 # 0.9.5
 Add scene for Extended Book 4 Hinterlands (Specterwood) map.
 
