@@ -1,3 +1,7 @@
+# 1.0.0
+- Fixes the Specterwood thumbnail image, and adjusts text labels on Specterwood and Hinterlands scenes.
+- Various other fixes like removed module lock file, and set this to version 1.0 because I am not sure how much more I will be adding from here, I'm pretty happy with the Specterwood map as it is.
+
 # 0.9.6
 Updated Specterwood scene markers, and the map image has been updated with a new road to the south and some other minor adjustments.
 

@@ -18,6 +18,9 @@ This module currently only contains various forms of hexploration maps for the W
 - Book 4 map that's even more extended to the north and south as well. Includes the various locations for side quests in book 4 and some other homebrew locations of mine. WIP as of v0.9.5
 
 I recommend using this in conjuction with the [World Explorer](https://github.com/CarlosFdez/world-explorer) module to slowly reveal the borders of the mindscape as the players explore the boundary.
+
+Troubleshooting Note:
+If you see broken journal notes and missing tile images, it is because you do not have the official Season of Ghosts foundry module installed and imported. If you don't plan on using that module, then you can delete these broken tiles or journal notes out of the scene, because I cannot redistribute the images required for them. If you do use the premium module, make sure the Basis Pack is imported first, and then import my scenes, so it can point to the Player's Guide journal entries.
 </details>
 
 ###
