@@ -1,12 +1,12 @@
 {
   "id": "pf2e-season-of-ghosts-map-remake",
-  "title": "PF2e Season of Ghosts Map Remake",
-  "version": "1.0.0",
+  "title": "PF2e Season of Ghosts Map Remakes",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
-    "verified": "12"
+    "verified": "13"
   },
-  "description": "Remakes for maps of the Season of Ghosts adventure path for Pathfinder 2nd Edition.",
+  "description": "Remakes for regional and town maps of the Season of Ghosts adventure path for Pathfinder 2nd Edition.",
   "authors": [
     {
       "name": "MechaMaya",
