@@ -1,3 +1,6 @@
+# 1.1.0
+Updated Spectrewood scene to be compatible with the newly added fog of war map that lines up specifically with the Spectrewood map.
+
 # 1.0.1
 v13 release, no changes, just verified v13 compatibility
 
