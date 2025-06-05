@@ -1,3 +1,6 @@
+# 1.2.0
+(PlasticMohawk) Updated Isometric Willowshore map to improve appearance of Mother's Coil and Trade Office
+
 # 1.1.0
 Updated Spectrewood scene to be compatible with the newly added fog of war map that lines up specifically with the Spectrewood map.
 
