@@ -1,7 +1,7 @@
 {
   "id": "pf2e-season-of-ghosts-map-remake",
   "title": "PF2e Season of Ghosts Map Remakes",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -21,6 +21,14 @@
       "path": "packs/season-of-ghosts-map-remake",
       "type": "Scene",
       "system": "pf2e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Season of Ghosts Maps and Tools",
+      "packs": [
+        "season-of-ghosts-map-remake"
+      ]
     }
   ],
   "manifest": "https://github.com/mechamaya/pf2e-season-of-ghosts-map-remake/releases/latest/download/module.json",

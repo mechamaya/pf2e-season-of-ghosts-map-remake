@@ -1,3 +1,6 @@
+# 1.2.4
+- Placed compendium in `Season of Ghosts Maps and Tools` folder
+
 # 1.2.0
 (PlasticMohawk) Updated Isometric Willowshore map to improve appearance of Mother's Coil and Trade Office
 
