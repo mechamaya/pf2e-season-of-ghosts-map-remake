@@ -1,3 +1,6 @@
+# 1.3.1
+- Verified v14, no changes
+
 # 1.3.0
 - (PlasticMohawk) Updated Isometric Willowshore Map to update the chapter 1 guard tower to look more towery, and redid the town name label.
 
